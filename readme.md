@@ -11,6 +11,14 @@ enter rate: 1
  ⇣  ⤥    
  0     0 
 
+enter seed: 888888
+enter rate: 1
+ ℕ 
+ ⇣ 
+ A 
+ ↡ 
+ 0 
+
 enter seed: 4294967777
 enter rate: 2
  S  ⇇  ℕ  ⬷  ℝ       
